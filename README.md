@@ -1,5 +1,5 @@
 # Alturas
-Small project made for maths in 4th of ESO.
+Small project made for maths in 4th of ESO with .Net Windows Forms.
 
 Calculates the height of the maritime control tower of A Coruña.
 
