@@ -1,0 +1,22 @@
+C:\Users\javim\Google Drive\Docs Cole\Curso2019-2020\mate\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\bin\Debug\ProgramaProyectoMate.exe.config
+C:\Users\javim\Google Drive\Docs Cole\Curso2019-2020\mate\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\bin\Debug\ProgramaProyectoMate.exe
+C:\Users\javim\Google Drive\Docs Cole\Curso2019-2020\mate\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\bin\Debug\ProgramaProyectoMate.pdb
+C:\Users\javim\Google Drive\Docs Cole\Curso2019-2020\mate\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.Form1.resources
+C:\Users\javim\Google Drive\Docs Cole\Curso2019-2020\mate\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.Properties.Resources.resources
+C:\Users\javim\Google Drive\Docs Cole\Curso2019-2020\mate\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.csproj.GenerateResource.cache
+C:\Users\javim\Google Drive\Docs Cole\Curso2019-2020\mate\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.csproj.CoreCompileInputs.cache
+C:\Users\javim\Google Drive\Docs Cole\Curso2019-2020\mate\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.exe
+C:\Users\javim\Google Drive\Docs Cole\Curso2019-2020\mate\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.pdb
+C:\Users\javim\Google Drive\Docs Cole\Curso2019-2020\mate\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.AcercaDe.resources
+C:\Users\javim\Google Drive\Docs Cole\Curso2019-2020\mate\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.csprojAssemblyReference.cache
+G:\Mi unidad\Programación\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\bin\Debug\ProgramaProyectoMate.exe.config
+G:\Mi unidad\Programación\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\bin\Debug\ProgramaProyectoMate.exe
+G:\Mi unidad\Programación\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\bin\Debug\ProgramaProyectoMate.pdb
+G:\Mi unidad\Programación\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.csproj.AssemblyReference.cache
+G:\Mi unidad\Programación\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.AcercaDe.resources
+G:\Mi unidad\Programación\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.Form1.resources
+G:\Mi unidad\Programación\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.Properties.Resources.resources
+G:\Mi unidad\Programación\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.csproj.GenerateResource.cache
+G:\Mi unidad\Programación\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Programación\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.exe
+G:\Mi unidad\Programación\Alturas mate\ProgramaProyectoMate\ProgramaProyectoMate\obj\Debug\ProgramaProyectoMate.pdb
